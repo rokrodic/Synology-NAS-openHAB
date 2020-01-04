@@ -2,7 +2,7 @@
 
 Hello!
 
-This is the latest openHAB home automation installation file for Synology NAS (on december 2019). It is a SPK file which I show you how to make in my video ().
+This is the latest openHAB home automation installation file for Synology NAS (on december 2019). It is a SPK file which I show you how to make in my video (https://youtu.be/-ArEEJRXVU8).
 
 You are invited to visit my youtube channel (https://www.youtube.com/channel/UCIOIhhPirDJH8LB0azJmd8w).
 
